@@ -34,7 +34,7 @@
 
 - Database Design
 
-![][image1]  
+![](./DB-design.png)  
              
  Here we have 3 tables, Products, Languages, and Translations.
 
